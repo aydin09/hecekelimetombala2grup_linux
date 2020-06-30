@@ -95,7 +95,7 @@ mainframe.grid(column=0, row=0)
 mainframe.columnconfigure(0, weight=1)
 mainframe.rowconfigure(0, weight =1)
                     
-label=Label(text="1. GRUP (ELAKİN) HECE/KELİME TOMBALASI PROGRAMI",fg="red",font=("Times New Roman" ,25))
+label=Label(text="1.2. GRUP HECE/KELİME TOMBALASI PROGRAMI",fg="red",font=("Times New Roman" ,25))
 label.place(relx = 0.17, rely = 0.02)
 
 label1=Label(text="",font=("Times New Roman" ,60))
